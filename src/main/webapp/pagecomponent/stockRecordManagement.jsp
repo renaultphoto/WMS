@@ -2,7 +2,7 @@
 
 <script>
     // 出入库记录查询参数
-    search_type = 'none'
+    search_type = 'searchAll'
     search_repositoryID = ''
     search_start_date = null
     search_end_date = null

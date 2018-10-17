@@ -1,3 +1,4 @@
+drop database wms_db;
 create database wms_db
 DEFAULT CHARACTER SET utf8
 DEFAULT COLLATE utf8_general_ci;
